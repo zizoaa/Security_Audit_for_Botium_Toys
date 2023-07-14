@@ -27,19 +27,19 @@ My task is to review the IT manager’s scope, goals, and risk assessment. Then,
 <h4>Firstly, let's identify the major risks that our esteemed organization faces. By pinpointing these risks, we can strategize and implement effective measures to mitigate them.</h4>
 
    <br/>
-<img src="https://i.postimg.cc/HndKmdLs/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/HndKmdLs/image.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h4>Next, let's prioritize the implementation of controls. Which controls should take precedence and be put into action immediately, while also considering those that can be addressed in the future? This way, we can ensure a systematic and efficient approach to enhancing our security posture.(The is be attached) <br/></h4>
-<img src="https://i.postimg.cc/tTJTRQmy/image.png" height="10%" width="60%" alt="Disk Sanitization Steps"/>
+<h4>Next, let's prioritize the implementation of controls. Which controls should take precedence and be put into action immediately, while also considering those that can be addressed in the future? This way, we can ensure a systematic and efficient approach to enhancing our security posture.(The file is  attached) <br/></h4>
+<img src="https://i.postimg.cc/tTJTRQmy/image.png" height="10%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4>Lastly, let's address compliance regulations that demand our attention. It's crucial for Botium Toys to adhere to these regulations in order to safeguard customer and vendor data, avoid penalties, and maintain a reputation of trustworthiness. Together, we will ensure the utmost safety and security of our valuable assets.(The file is attached) </h4> <br/>
-<img src="https://i.postimg.cc/5td9dQ8B/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/5td9dQ8B/image.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4>Now, I need to create a report for the stakeholders, explaining my findings and recommendations.(The file is attached)  <br/></h4>
-<img src="https://i.postimg.cc/y6whDs4L/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/y6whDs4L/image.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  
