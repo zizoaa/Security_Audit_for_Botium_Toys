@@ -1,6 +1,6 @@
-  <h1>JWipe - Disk Sanitization</h1>
+  <h1>Secutity Audit for botium toys </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 In this project, I worked as a cybersecurity analyst and conducted a security audit for a fictional company named Botium Toys,
@@ -12,56 +12,34 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 My task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
 
-
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h4>I received the following Email from the IT manager: <br/></h4>
+<img src="https://i.postimg.cc/SRQ3cgqS/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+ <h3><p>Once I've had the opportunity to review the audit scope, goals, and risk assessment, let's delve into the following inquiries together...</p></h3>
+<br />
+<h4>Firstly, let's identify the major risks that our esteemed organization faces. By pinpointing these risks, we can strategize and implement effective measures to mitigate them.</h4>
+
+   <br/>
+<img src="https://i.postimg.cc/HndKmdLs/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<h4>Next, let's prioritize the implementation of controls. Which controls should take precedence and be put into action immediately, while also considering those that can be addressed in the future? This way, we can ensure a systematic and efficient approach to enhancing our security posture.(The is be attached) <br/></h4>
+<img src="https://i.postimg.cc/tTJTRQmy/image.png" height="10%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<h4>Lastly, let's address compliance regulations that demand our attention. It's crucial for Botium Toys to adhere to these regulations in order to safeguard customer and vendor data, avoid penalties, and maintain a reputation of trustworthiness. Together, we will ensure the utmost safety and security of our valuable assets.(The file is attached) </h4> <br/>
+<img src="https://i.postimg.cc/5td9dQ8B/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<h4>Now, I need to create a report for the stakeholders, explaining my findings and recommendations.(The file is attached)  <br/></h4>
+<img src="https://i.postimg.cc/y6whDs4L/image.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
